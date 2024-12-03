@@ -1,0 +1,6 @@
+model_list:
+  - model_name: "Tulu"             
+    litellm_params:
+      model: "ollama_chat/3thtulu3"
+    model_info:
+      supports_function_calling: true
